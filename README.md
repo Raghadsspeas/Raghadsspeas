@@ -9,7 +9,7 @@ I have been learning coding for 3 years I started with python then Java and c# b
 * 🌍  I'm based in KSA,Rabigh
 * ✉️  You can contact me at [Raghad200110@gmail.com](mailto:Raghad200110@gmail.com)
 * 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on im open to collaborating on any c++ or SQL or java projects
+* 🤝  I'm open to collaborating on any c++ or SQL or java projects
 * ⚡  Fast learing! and I have a challenging spirit!
 
 ### Skills
