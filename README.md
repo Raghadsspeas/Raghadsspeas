@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raghad Mutiry
 =====================================================================================================================================
 
-junior coder
+IT Specialist in Network Security & Web Development
 ------------
 
-I have been learning coding for 3 years I started with python then Java and c# but now am interested in c++, also am interested in learning SQL, and I would like to improve my problem-solving skills
+I'm an IT graduate with a focus on network security, administration, and web development. Over the past five years, I've gained expertise in C++, competitive programming, MongoDB, system administration, JavaScript, NodeJS, PHP, and phpMyAdmin. I'm continuously learning and aiming to enhance my problem-solving skills.
 
 * 🌍  I'm based in KSA,Rabigh
-* ✉️  You can contact me at [Raghad200110@gmail.com](mailto:Raghad200110@gmail.com)
+* ✉️  You can contact me at [Raghadhmutairi@gmail.com](mailto:Raghadhmutairi@gmail.com)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on any c++ or SQL or java projects
 * ⚡  Fast learing! and I have a challenging spirit!
