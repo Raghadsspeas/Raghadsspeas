@@ -8,9 +8,9 @@ I'm an IT graduate with a focus on network security, administration, and web dev
 
 * 🌍  I'm based in KSA,Rabigh
 * ✉️  You can contact me at [Raghadhmutairi@gmail.com](mailto:Raghadhmutairi@gmail.com)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on any c++ or SQL or java projects
-* ⚡  Fast learing! and I have a challenging spirit!
+* 🧠 Exploring the depths of C++ and SQL
+* 🤝 Excited to collaborate on C++, SQL, JavaScript, or PHP projects
+* ⚡ Fast learner with a passion for innovation and problem-solving!
 
 ### Skills
 
@@ -18,6 +18,12 @@ I'm an IT graduate with a focus on network security, administration, and web dev
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/phpmyadmin-colored.svg" width="36" height="36" alt="phpMyAdmin" /></a>
+<a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/packettracer-colored.svg" width="36" height="36" alt="Packet Tracer" /></a>
 </p>
 
 
